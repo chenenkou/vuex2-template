@@ -1,6 +1,6 @@
-# vuex2-test
+# vuex2-template
 
-> A Vue.js project
+> A Vue.js with wuex project
 
 ## Build Setup
 
